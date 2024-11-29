@@ -1,0 +1,23 @@
+proyecto-api/
+├── app.js
+├── config/
+│   ├── database.js
+│   ├── server.js
+│   └── ...
+├── controllers/
+│   ├── mensajeController.js
+│   └── ...
+├── models/
+│   ├── mensajeModel.js
+│   └── ...
+├── routes/
+│   ├── mensajeRoutes.js
+│   └── ...
+├── services/
+│   ├── mensajeService.js
+│   └── ...
+├── utils/
+│   ├── logger.js
+│   └── ...
+├── package.json
+└── README.md
